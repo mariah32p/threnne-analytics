@@ -15,21 +15,16 @@ Usage:
 import argparse
 import json
 import os
+import re
 import time
 from datetime import date, datetime, timezone
+
 import pandas as pd
-import requests
 from bs4 import BeautifulSoup
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
-RATE_LIMIT = 2
+from gr_http import fetch_url, make_scraper
+
+BOOK_SHOW_RE = re.compile(r"/book/show/(\d+)")
 
 
 def _utc_ts() -> str:
@@ -52,9 +47,16 @@ def _format_review_count(reviews) -> str:
         return str(reviews)
 
 
-def scrape_book_page(url: str) -> dict:
+def book_id_from_url(url: str) -> int | None:
+    if not isinstance(url, str):
+        return None
+    m = BOOK_SHOW_RE.search(url)
+    return int(m.group(1)) if m else None
+
+
+def scrape_book_page(scraper, url: str) -> dict:
     try:
-        response = requests.get(url, headers=HEADERS, timeout=10)
+        response = fetch_url(scraper, url, timeout=30)
         if response.status_code == 429:
             return {"status": "rate_limited", "reviews": None, "rating": None, "shelves": None}
         if response.status_code != 200:
@@ -184,6 +186,12 @@ if __name__ == "__main__":
         default=None,
         help="Append human-readable progress lines (UTC timestamps) for monitoring (e.g. tail -f).",
     )
+    parser.add_argument(
+        "--merge-existing-output",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Merge with existing output CSV on book_id, keep='last' (freshest scrape wins).",
+    )
     args = parser.parse_args()
 
     status_fp = None
@@ -206,13 +214,15 @@ if __name__ == "__main__":
         status(f"RUN_START template={args.template} output={args.output} books={n}")
         status(f"Starting scrape for {n} titles...")
 
+        scraper = make_scraper()
+
         for pos, (_, row) in enumerate(df.iterrows(), start=1):
             url = row["goodreads_url"]
             title = str(row["book_title"])
             if len(title) > 70:
                 title = title[:67] + "..."
 
-            result = scrape_book_page(url)
+            result = scrape_book_page(scraper, url)
 
             if result["status"] == "success":
                 rev_disp = _format_review_count(result["reviews"])
@@ -236,10 +246,16 @@ if __name__ == "__main__":
             if result["status"] == "rate_limited":
                 status("Rate limited — sleeping 30 seconds")
                 time.sleep(30)
-            else:
-                time.sleep(RATE_LIMIT)
 
         out_df = pd.DataFrame(results)
+        out_df["book_id"] = out_df["goodreads_url"].map(book_id_from_url)
+
+        if args.merge_existing_output and os.path.isfile(args.output):
+            prev = pd.read_csv(args.output)
+            if "book_id" not in prev.columns:
+                prev["book_id"] = prev["goodreads_url"].map(book_id_from_url)
+            out_df = pd.concat([prev, out_df], ignore_index=True)
+            out_df = out_df.drop_duplicates(subset=["book_id"], keep="last")
 
         os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
         out_df.to_csv(args.output, index=False)

@@ -29,13 +29,14 @@ jobs:
 
       - name: 📦 Install Dependencies
         run: |
-          pip install pandas pyarrow numpy
-          # Scraper deps when wired: pip install requests beautifulsoup4
+          pip install pandas pyarrow numpy cloudscraper beautifulsoup4
 
       - name: 🕸️ Run Daily Scraper
         run: |
-          echo "Running Scraper..."
-          # python scrapers/your_scraper_script.py
+          python scrapers/daily_discovery_scraper.py --output data/raw/epoch_3_forecast/daily_seed.csv
+          python scrapers/goodreads_scraper.py \
+            --template data/raw/epoch_3_forecast/daily_seed.csv \
+            --output data/raw/epoch_3_forecast/daily_discovery_processed.csv
 
       - name: 🔍 Scan for New Unmapped Tropes
         run: python engine/05_find_unmapped_tropes.py
@@ -86,7 +87,7 @@ jobs:
         run: |
           git config user.name "Threnne Intelligence Bot"
           git config user.email "bot@threnne.com"
-          git add data/processed/epoch_3_forecast.parquet data/exports/forecast_report.csv data/exports/forecast_stacks_report.csv data/exports/unmapped_shelves.csv backtester/data/exports/unmapped_alerts.csv
+          git add data/processed/epoch_3_forecast.parquet data/exports/forecast_report.csv data/exports/forecast_stacks_report.csv data/exports/unmapped_shelves.csv backtester/data/exports/unmapped_alerts.csv data/raw/epoch_3_forecast/daily_seed.csv data/raw/epoch_3_forecast/daily_discovery_processed.csv
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
