@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+app/backend/.venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Node / Vite
+app/frontend/node_modules/
+app/frontend/dist/
+
+# Large UCSD baseline inputs (~3.7 GB) — keep local only; document path in README if needed
+data/raw/epoch_1_baseline/
+
+# Secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+
+# Misc
+*.log
+npm-debug.log*

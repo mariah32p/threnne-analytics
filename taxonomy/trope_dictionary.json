@@ -1,0 +1,716 @@
+{
+  "ENEMIES_TO_LOVERS": [
+    "enemies-to-lovers",
+    "enemies to lovers",
+    "enemy to lovers",
+    "enemies2lovers",
+    "hate-to-love",
+    "hate to love",
+    "rivals-to-lovers",
+    "rivals to lovers",
+    "frenemies to lovers"
+  ],
+  "FRIENDS_TO_LOVERS": [
+    "friends-to-lovers",
+    "friends to lovers",
+    "friend to lover",
+    "childhood friends",
+    "best friends to lovers",
+    "friends2lovers",
+    "childhood sweethearts"
+  ],
+  "FAKE_DATING": [
+    "fake-dating",
+    "fake dating",
+    "fake relationship",
+    "pretend relationship",
+    "fake engagement",
+    "contract relationship"
+  ],
+  "MARRIAGE_OF_CONVENIENCE": [
+    "marriage of convenience",
+    "marriage-of-convenience",
+    "arranged marriage",
+    "mail order bride"
+  ],
+  "FORCED_PROXIMITY": [
+    "forced-proximity",
+    "forced proximity",
+    "only one bed",
+    "one bed",
+    "stuck together",
+    "trapped together",
+    "snowed in",
+    "stranded together",
+    "roommates",
+    "roommate romance"
+  ],
+  "SLOW_BURN": [
+    "slow-burn",
+    "slow burn",
+    "slowburn"
+  ],
+  "GRUMPY_SUNSHINE": [
+    "grumpy-sunshine",
+    "grumpy sunshine",
+    "grumpy x sunshine",
+    "grumpy & sunshine",
+    "grumpy/sunshine",
+    "grumpy meets sunshine",
+    "sunshine and grumpy"
+  ],
+  "OPPOSITES_ATTRACT": [
+    "opposites attract"
+  ],
+  "MORALLY_GREY": [
+    "morally grey",
+    "morally gray",
+    "morally-grey",
+    "villain gets the girl",
+    "touch her and you die",
+    "unhinged hero",
+    "villain romance"
+  ],
+  "CINNAMON_ROLL": [
+    "cinnamon roll",
+    "cinnamon-roll",
+    "golden retriever",
+    "golden retriever energy",
+    "golden retriever boy",
+    "sweet hero",
+    "soft boy"
+  ],
+
+  "WOMEN_IN_STEM": [
+    "women in stem",
+    "women-in-stem"
+  ],
+  "STEM": [
+    "stem romance",
+    "stem"
+  ],
+
+  "ACADEMIC_RIVALS": [
+    "academic rivals",
+    "academic competition"
+  ],
+  "SECOND_CHANCE": [
+    "second-chance",
+    "second chance",
+    "second-chance romance",
+    "second chance romance",
+    "second-chances",
+    "new old flame"
+  ],
+
+  "SECRET_BABY": [
+    "secret-baby",
+    "secret baby",
+    "secret lovechild",
+    "secret heir",
+    "baby on doorstep"
+  ],
+  "ACCIDENTAL_PREGNANCY": [
+    "accidental pregnancy",
+    "surprise pregnancy",
+    "knocked up"
+  ],
+
+  "SINGLE_PARENT": [
+    "single-parent",
+    "single parent",
+    "single dad",
+    "single-dad",
+    "single mom",
+    "single father",
+    "single father romance",
+    "single parents",
+    "guardian",
+    "parenting"
+  ],
+  "AGE_GAP": [
+    "age-gap",
+    "age gap",
+    "age difference",
+    "age-gap-romance",
+    "huge age gap",
+    "older man younger woman",
+    "younger woman older man",
+    "may december",
+    "age gap romance"
+  ],
+  "BROTHERS_BEST_FRIEND": [
+    "brothers-best-friend",
+    "brother's best friend",
+    "brother s best friend",
+    "brothers best friend",
+    "best friend's brother",
+    "best friends brother"
+  ],
+  "LOVE_TRIANGLE": [
+    "love-triangle",
+    "love triangle",
+    "triangle romance",
+    "two-person love triangle"
+  ],
+  "REVERSE_HAREM_POLY": [
+    "reverse harem",
+    "rh",
+    "why choose",
+    "poly romance",
+    "polyamory",
+    "mmf",
+    "mfm",
+    "mmfm",
+    "ffm",
+    "menage",
+    "polyamorous",
+    "threesome",
+    "m f m",
+    "m m f",
+    "m f f",
+    "harem"
+  ],
+  "FATED_MATES": [
+    "fated-mates",
+    "fated mates",
+    "fated",
+    "true mates",
+    "soulmates",
+    "mating bond"
+  ],
+  "BILLIONAIRE": [
+    "billionaire",
+    "billionaires",
+    "billionaire romance",
+    "billionaire playboy",
+    "rich guy",
+    "wealthy",
+    "millionaire",
+    "rags to royalty",
+    "boss"
+  ],
+  "MAFIA_CARTEL_CRIME": [
+    "mafia",
+    "mafia romance",
+    "mafia-romance",
+    "mob",
+    "organized crime",
+    "cartel",
+    "crime lord"
+  ],
+  "SPORTS_HOCKEY": [
+    "hockey",
+    "hockey romance",
+    "ice hockey",
+    "nhl"
+  ],
+  "SPORTS_FOOTBALL": [
+    "football",
+    "football romance",
+    "nfl"
+  ],
+  "SPORTS_BASEBALL": [
+    "baseball"
+  ],
+  "SPORTS_BASKETBALL": [
+    "basketball"
+  ],
+  "SPORTS_SOCCER": [
+    "soccer"
+  ],
+  "SPORTS_MMA_FIGHTING": [
+    "mixed martial arts",
+    "fighters",
+    "racing"
+  ],
+  "SPORTS_GENERAL": [
+    "sports",
+    "sports romance",
+    "sports story"
+  ],
+  "MONSTER_ALIEN": [
+    "monster",
+    "monsters",
+    "monster romance",
+    "alien",
+    "alien romance"
+  ],
+  "WORKPLACE": [
+    "workplace",
+    "workplace romance",
+    "office romance",
+    "office-romance",
+    "coworkers",
+    "co-worker",
+    "boss employee",
+    "boss/employee",
+    "sleeping with the boss",
+    "construction"
+  ],
+  "MARRIAGE_IN_TROUBLE": [
+    "marriage in trouble",
+    "already married",
+    "married couple",
+    "rocky marriage",
+    "marriage on the rocks",
+    "marriage",
+    "divorce"
+  ],
+  "HIGH_STEAM": [
+    "steamy reads",
+    "steamy-reads",
+    "steamy romance",
+    "erotic romance",
+    "high steam",
+    "smutty",
+    "smut",
+    "spicy",
+    "bdsm",
+    "erotica",
+    "pornography",
+    "steamy",
+    "spicy romance"
+  ],
+  "CLEAN_SWEET": [
+    "clean romance",
+    "sweet romance",
+    "closed door",
+    "closed-door",
+    "closed door romance",
+    "no steam",
+    "cozy"
+  ],
+  "CELEBRITY": [
+    "celebrity",
+    "celebrity romance",
+    "famous",
+    "famous hero",
+    "famous heroine",
+    "rockstar",
+    "rock star",
+    "rockstar romance",
+    "band romance",
+    "music romance",
+    "fashion"
+  ],
+  "MUSICIANS": [
+    "music",
+    "musicians"
+  ],
+  "ROYALTY": [
+    "royalty",
+    "royal romance",
+    "prince",
+    "princess",
+    "king",
+    "queen",
+    "monarch"
+  ],
+  "SMALL_TOWN": [
+    "small town",
+    "small-town",
+    "small town romance",
+    "return to hometown",
+    "hometown romance"
+  ],
+  "NEIGHBORS": [
+    "neighbors to lovers",
+    "neighbours to lovers",
+    "neighbor romance",
+    "neighbour romance",
+    "next door neighbor"
+  ],
+  "MILITARY_WAR": [
+    "military romance",
+    "military fiction",
+    "soldier",
+    "marine",
+    "special forces",
+    "navy seal",
+    "war",
+    "army",
+    "navy",
+    "air force",
+    "veteran"
+  ],
+  "LAW_ENFORCEMENT": [
+    "cop",
+    "police",
+    "detective",
+    "fbi agent",
+    "law enforcement",
+    "sheriff",
+    "deputy"
+  ],
+  "MC_BIKER": [
+    "mc romance",
+    "mc-romance",
+    "motorcycle club",
+    "biker romance",
+    "biker",
+    "motorcycle"
+  ],
+  "TIME_TRAVEL": [
+    "time travel",
+    "time-travel romance",
+    "time-travel",
+    "time slip"
+  ],
+  "OMEGAVERSE": [
+    "omegaverse",
+    "a b o",
+    "alpha beta omega",
+    "shifter omegaverse"
+  ],
+  "FOUND_FAMILY": [
+    "found family",
+    "found-family",
+    "chosen family",
+    "friendship",
+    "family",
+    "family drama"
+  ],
+  "HE_FALLS_FIRST": [
+    "he falls first",
+    "he-falls-first",
+    "he fell first",
+    "boy obsessed"
+  ],
+  "FORBIDDEN_TABOO": [
+    "forbidden romance",
+    "forbidden love",
+    "forbidden",
+    "taboo",
+    "taboo romance"
+  ],
+  "GAY_FOR_YOU": [
+    "gay for you",
+    "gfy",
+    "bi awakening",
+    "bisexual awakening"
+  ],
+  "BODYGUARD": [
+    "bodyguard",
+    "bodyguard romance",
+    "security detail"
+  ],
+  "ROM_COM": [
+    "rom com",
+    "rom-com",
+    "romantic comedy",
+    "romcom",
+    "comedy",
+    "humor"
+  ],
+  "REP_MM": [
+    "m m romance",
+    "gay",
+    "m m contemporary",
+    "m m m",
+    "gay fiction",
+    "m m sports romance",
+    "m m shapeshifters",
+    "m m mystery",
+    "m m science fiction",
+    "m m historical romance",
+    "m m fantasy",
+    "m m paranormal",
+    "m m romantic suspense"
+  ],
+  "REP_FF": [
+    "lesbian",
+    "lesbian fiction",
+    "lesbian romance",
+    "sapphic",
+    "f f romance"
+  ],
+  "REP_QUEER_GENERAL": [
+    "lgbt",
+    "queer",
+    "bisexual",
+    "transgender",
+    "genderqueer",
+    "asexual",
+    "queer romance",
+    "lgbt romance",
+    "queer lit"
+  ],
+  "REP_MF": [
+    "m f romance"
+  ],
+  "INTERRACIAL_MULTICULTURAL": [
+    "interracial romance",
+    "bwwm",
+    "african american romance",
+    "african american",
+    "latinx",
+    "aapi"
+  ],
+  "REP_CULTURAL_IDENTITY": [
+    "immigration",
+    "race",
+    "cultural",
+    "jewish",
+    "muslims"
+  ],
+  "SHIFTER_WEREWOLF": [
+    "shapeshifters",
+    "werewolves",
+    "wolves",
+    "shifter"
+  ],
+  "VAMPIRES": [
+    "vampires",
+    "vampire"
+  ],
+  "WITCHES_MAGIC": [
+    "witches",
+    "magic",
+    "magical realism"
+  ],
+  "FAE_ELVES": [
+    "fae",
+    "elves",
+    "faerie"
+  ],
+  "DEMONS_ANGELS": [
+    "demons",
+    "angels",
+    "angels and demons",
+    "gods",
+    "mythology",
+    "greek mythology"
+  ],
+  "GHOSTS": [
+    "ghosts"
+  ],
+  "DRAGONS": [
+    "dragons"
+  ],
+  "FAIRY_TALE_RETELLING": [
+    "retellings",
+    "fairy tales",
+    "fairy tale retellings"
+  ],
+  "COWBOY_WESTERN": [
+    "cowboy romance",
+    "westerns",
+    "western romance"
+  ],
+  "HOLIDAY": [
+    "holiday",
+    "christmas",
+    "holiday romance",
+    "halloween"
+  ],
+  "ACADEMIA_SCHOOL": [
+    "college",
+    "college romance",
+    "high school",
+    "boarding school",
+    "dark academia"
+  ],
+  "MEDICAL": [
+    "doctors",
+    "medical",
+    "medicine"
+  ],
+  "FIREFIGHTER_FIRST_RESPONDER": [
+    "firefighters"
+  ],
+  "ROAD_TRIP": [
+    "road trip",
+    "travel"
+  ],
+  "ANGSTY_GRIEF": [
+    "grief",
+    "emotional",
+    "death",
+    "illness"
+  ],
+  "NEURODIVERGENT_DISABILITY": [
+    "disability",
+    "autistic spectrum disorder",
+    "adhd",
+    "mental health",
+    "mental illness"
+  ],
+  "CONTEMPORARY_ROMANCE": [
+    "chick lit",
+    "womens fiction",
+    "womens",
+    "contemporary romance",
+    "contemporary-romance",
+    "category romance",
+    "harlequin",
+    "harlequin desire"
+  ],
+  "HISTORICAL_ROMANCE": [
+    "historical",
+    "historical fiction",
+    "historical romance",
+    "regency",
+    "regency romance",
+    "victorian",
+    "medieval",
+    "georgian",
+    "edwardian",
+    "18th century",
+    "medieval romance",
+    "pirates"
+  ],
+  "PARANORMAL_ROMANCE": [
+    "paranormal",
+    "paranormal romance",
+    "urban fantasy",
+    "romantasy",
+    "supernatural",
+    "paranormal mystery",
+    "mythical creatures",
+    "mermaids",
+    "zombies"
+  ],
+  "FANTASY_ROMANCE": [
+    "fantasy",
+    "fantasy romance",
+    "high fantasy",
+    "cozy fantasy",
+    "historical fantasy"
+  ],
+  "SCI_FI_ROMANCE": [
+    "science fiction",
+    "science fiction romance",
+    "science fiction fantasy",
+    "space",
+    "space opera",
+    "futuristic",
+    "post apocalyptic",
+    "cyberpunk",
+    "steampunk",
+    "aliens",
+    "dystopia",
+    "sci-fi romance",
+    "sci fi romance",
+    "sci-fi",
+    "sci fi"
+  ],
+  "MYSTERY_THRILLER_SUSPENSE": [
+    "mystery",
+    "crime",
+    "suspense",
+    "thriller",
+    "mystery thriller",
+    "cozy mystery",
+    "serial killer",
+    "murder mystery",
+    "romantic suspense",
+    "noir"
+  ],
+  "DARK_ROMANCE": [
+    "dark",
+    "dark romance",
+    "dark-romance",
+    "brutally-dark-reads",
+    "gothic",
+    "gothic romance"
+  ],
+  "INSPIRATIONAL_CHRISTIAN": [
+    "christian",
+    "christian fiction",
+    "christian romance",
+    "inspirational",
+    "faith",
+    "spirituality"
+  ],
+  "NEW_ADULT": [
+    "new adult",
+    "new adult romance",
+    "new-adult"
+  ],
+  "YOUNG_ADULT": [
+    "young adult",
+    "young adult romance",
+    "young adult contemporary",
+    "young adult fantasy",
+    "teen",
+    "young-adult",
+    "ya"
+  ],
+  "DARK_TRAUMA": [
+    "abuse",
+    "addiction",
+    "sex work",
+    "poverty"
+  ],
+  "TEACHER_ROMANCE": [
+    "teachers",
+    "student-teacher",
+    "student teacher"
+  ],
+  "PLUS_SIZE_REP": [
+    "plus size",
+    "fat"
+  ],
+  "GENDER_NONCONFORMING": [
+    "cross dressing",
+    "drag"
+  ],
+  "NERD_GEEK": [
+    "nerd",
+    "geek",
+    "gaming"
+  ],
+  "SUPERHEROES": [
+    "superheroes"
+  ],
+  "SEASONAL_SUMMER_BEACH": [
+    "summer",
+    "summer reads",
+    "beach reads"
+  ],
+  "ACTION_ADVENTURE": [
+    "action",
+    "adventure",
+    "survival"
+  ],
+  "HORROR": [
+    "horror"
+  ],
+  "FEMINIST_STRONG_LEAD": [
+    "feminism",
+    "strong female"
+  ],
+  "PETS_ANIMALS": [
+    "animals",
+    "dogs",
+    "cats"
+  ],
+  "FOODIE_ROMANCE": [
+    "food",
+    "cooking"
+  ],
+  "NANNY_AU_PAIR": [
+    "nanny",
+    "nanny romance",
+    "trope nanny",
+    "trope nanny romance",
+    "au pair",
+    "live-in nanny"
+  ],
+  "INSTA_LOVE": [
+    "insta love",
+    "instalove",
+    "trope instalove",
+    "love at first sight"
+  ],
+  "MISCOMMUNICATION": [
+    "miscommunication",
+    "miscommunication trope",
+    "communication issues"
+  ],
+  "CHEATING": [
+    "cheating",
+    "infidelity"
+  ]
+}
