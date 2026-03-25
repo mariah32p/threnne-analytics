@@ -1,6 +1,6 @@
 rank,raw_shelf,book_count
-1,dark fantasy,3
-2,academia,2
+1,academia,4
+2,dark fantasy,4
 3,realistic young adult,1
 4,italy,1
 5,bangladesh,1
@@ -14,3 +14,6 @@ rank,raw_shelf,book_count
 13,love inspired,1
 14,ya romantasy,1
 15,tarot,1
+16,spanish literature,1
+17,spain,1
+18,epic fantasy,1
