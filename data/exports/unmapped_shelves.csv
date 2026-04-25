@@ -1,14 +1,14 @@
 rank,raw_shelf,book_count
-1,dark fantasy,9
-2,dystopian romance,3
-3,academia,3
+1,dark fantasy,11
+2,academia,4
+3,dystopian romance,3
 4,historical mystery,2
 5,manga,2
-6,epic fantasy,2
-7,spanish literature,2
-8,21st century,1
-9,theatre,1
-10,shojo,1
+6,shojo,2
+7,epic fantasy,2
+8,spanish literature,2
+9,21st century,1
+10,theatre,1
 11,love inspired,1
 12,police romance,1
 13,realistic young adult,1
@@ -25,6 +25,7 @@ rank,raw_shelf,book_count
 24,espionage,1
 25,urban,1
 26,dinosaurs,1
-27,cinderella,1
-28,ya romantasy,1
-29,tarot,1
+27,ya horror,1
+28,cinderella,1
+29,ya romantasy,1
+30,tarot,1
