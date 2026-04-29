@@ -1,5 +1,5 @@
 rank,raw_shelf,book_count
-1,dark fantasy,10
+1,dark fantasy,11
 2,academia,4
 3,dystopian romance,3
 4,historical mystery,2
@@ -10,21 +10,24 @@ rank,raw_shelf,book_count
 9,21st century,1
 10,theatre,1
 11,love inspired,1
-12,police romance,1
-13,realistic young adult,1
-14,cozy romance,1
-15,italy,1
-16,bangladesh,1
-17,fade to black,1
-18,dual timeline,1
-19,kidnapping,1
-20,baseball romance,1
+12,multiple partners,1
+13,police romance,1
+14,realistic young adult,1
+15,cozy romance,1
+16,italy,1
+17,bangladesh,1
+18,fade to black,1
+19,dual timeline,1
+20,kidnapping,1
 21,spain,1
-22,love story,1
-23,mystery romance,1
-24,espionage,1
-25,urban,1
-26,dinosaurs,1
-27,ya horror,1
-28,ya romantasy,1
-29,tarot,1
+22,ya horror,1
+23,love story,1
+24,mystery romance,1
+25,espionage,1
+26,urban,1
+27,dinosaurs,1
+28,cinderella,1
+29,ya romantasy,1
+30,tarot,1
+31,baseball romance,1
+32,rus,1
