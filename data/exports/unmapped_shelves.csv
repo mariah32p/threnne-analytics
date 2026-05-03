@@ -3,40 +3,39 @@ rank,raw_shelf,book_count
 2,academia,7
 3,historical mystery,3
 4,manga,3
-5,dystopian romance,3
-6,shojo,2
-7,epic fantasy,2
-8,italy,2
-9,dual timeline,2
-10,spanish literature,2
+5,shojo,2
+6,epic fantasy,2
+7,spanish literature,2
+8,dystopian romance,2
+9,italy,2
+10,dual timeline,2
 11,graphic novels comics,2
-12,summer romance,2
-13,21st century,1
-14,theatre,1
-15,love inspired,1
-16,booktok,1
-17,multiple partners,1
-18,police romance,1
-19,realistic young adult,1
-20,cozy romance,1
-21,bangladesh,1
-22,fade to black,1
-23,kidnapping,1
-24,spain,1
-25,ya horror,1
-26,baseball romance,1
-27,rus,1
-28,ya romantasy,1
-29,tarot,1
-30,love story,1
-31,mystery romance,1
-32,espionage,1
-33,urban,1
-34,green,1
-35,young adult science fiction,1
-36,horses,1
-37,folklore,1
-38,manhwa,1
-39,webcomic,1
-40,dinosaurs,1
-41,cinderella,1
+12,21st century,1
+13,theatre,1
+14,love inspired,1
+15,booktok,1
+16,multiple partners,1
+17,spain,1
+18,ya horror,1
+19,baseball romance,1
+20,rus,1
+21,ya romantasy,1
+22,tarot,1
+23,love story,1
+24,mystery romance,1
+25,espionage,1
+26,urban,1
+27,green,1
+28,young adult science fiction,1
+29,summer romance,1
+30,horses,1
+31,manhwa,1
+32,webcomic,1
+33,dinosaurs,1
+34,cinderella,1
+35,police romance,1
+36,realistic young adult,1
+37,cozy romance,1
+38,bangladesh,1
+39,fade to black,1
+40,kidnapping,1
