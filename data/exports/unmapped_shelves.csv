@@ -1,39 +1,42 @@
 rank,raw_shelf,book_count
-1,dark fantasy,17
-2,academia,5
-3,manga,4
-4,dystopian romance,3
-5,historical mystery,2
+1,dark fantasy,18
+2,manga,4
+3,academia,4
+4,historical mystery,3
+5,dystopian romance,3
 6,shojo,2
 7,epic fantasy,2
 8,booktok,2
 9,spanish literature,2
-10,italy,2
-11,dual timeline,2
-12,kidnapping,2
-13,manhwa,2
-14,webcomic,2
-15,theatre,1
-16,love inspired,1
-17,multiple partners,1
-18,ya horror,1
-19,baseball romance,1
-20,rus,1
-21,ya romantasy,1
-22,tarot,1
-23,love story,1
-24,mystery romance,1
-25,police romance,1
-26,realistic young adult,1
-27,cozy romance,1
-28,bangladesh,1
-29,fade to black,1
-30,summer romance,1
-31,spain,1
-32,christian historical fiction,1
-33,young adult science fiction,1
-34,graphic novels comics,1
-35,horses,1
-36,folklore,1
-37,dinosaurs,1
-38,cinderella,1
+10,manhwa,2
+11,webcomic,2
+12,italy,2
+13,dual timeline,2
+14,graphic novels comics,2
+15,21st century,1
+16,theatre,1
+17,love inspired,1
+18,multiple partners,1
+19,ya horror,1
+20,baseball romance,1
+21,rus,1
+22,ya romantasy,1
+23,tarot,1
+24,love story,1
+25,mystery romance,1
+26,espionage,1
+27,urban,1
+28,summer romance,1
+29,spain,1
+30,green,1
+31,christian historical fiction,1
+32,young adult science fiction,1
+33,folklore,1
+34,dinosaurs,1
+35,cinderella,1
+36,police romance,1
+37,realistic young adult,1
+38,cozy romance,1
+39,bangladesh,1
+40,fade to black,1
+41,kidnapping,1
