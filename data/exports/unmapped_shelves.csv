@@ -1,5 +1,5 @@
 rank,raw_shelf,book_count
-1,dark fantasy,18
+1,dark fantasy,17
 2,manga,4
 3,academia,4
 4,historical mystery,3
@@ -28,15 +28,16 @@ rank,raw_shelf,book_count
 27,urban,1
 28,summer romance,1
 29,spain,1
-30,green,1
-31,christian historical fiction,1
-32,young adult science fiction,1
-33,folklore,1
-34,dinosaurs,1
-35,cinderella,1
-36,police romance,1
-37,realistic young adult,1
-38,cozy romance,1
-39,bangladesh,1
-40,fade to black,1
-41,kidnapping,1
+30,police romance,1
+31,realistic young adult,1
+32,cozy romance,1
+33,bangladesh,1
+34,fade to black,1
+35,kidnapping,1
+36,green,1
+37,christian historical fiction,1
+38,young adult science fiction,1
+39,horses,1
+40,folklore,1
+41,dinosaurs,1
+42,cinderella,1
