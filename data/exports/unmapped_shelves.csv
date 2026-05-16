@@ -10,20 +10,20 @@ rank,raw_shelf,book_count
 9,spanish literature,2
 10,manhwa,2
 11,webcomic,2
-12,italy,2
-13,dual timeline,2
-14,graphic novels comics,2
-15,21st century,1
-16,theatre,1
-17,love inspired,1
-18,ya horror,1
-19,baseball romance,1
-20,rus,1
-21,ya romantasy,1
-22,tarot,1
-23,love story,1
-24,mystery romance,1
-25,espionage,1
+12,dual timeline,2
+13,graphic novels comics,2
+14,21st century,1
+15,theatre,1
+16,love inspired,1
+17,ya horror,1
+18,baseball romance,1
+19,rus,1
+20,ya romantasy,1
+21,tarot,1
+22,love story,1
+23,mystery romance,1
+24,espionage,1
+25,summer romance,1
 26,police romance,1
 27,realistic young adult,1
 28,cozy romance,1
@@ -33,8 +33,10 @@ rank,raw_shelf,book_count
 32,spain,1
 33,green,1
 34,christian historical fiction,1
-35,young adult science fiction,1
-36,horses,1
-37,folklore,1
-38,dinosaurs,1
-39,cinderella,1
+35,italy,1
+36,young adult science fiction,1
+37,amateur sleuth,1
+38,horses,1
+39,folklore,1
+40,dinosaurs,1
+41,cinderella,1
