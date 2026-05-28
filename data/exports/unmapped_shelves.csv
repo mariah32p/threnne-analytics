@@ -1,30 +1,30 @@
 rank,raw_shelf,book_count
-1,dark fantasy,18
-2,academia,6
+1,dark fantasy,16
+2,academia,7
 3,manga,4
-4,historical mystery,3
-5,shojo,2
-6,dystopian romance,2
-7,epic fantasy,2
-8,booktok,2
-9,spanish literature,2
-10,manhwa,2
-11,webcomic,2
-12,italy,2
-13,dual timeline,2
-14,graphic novels comics,2
-15,21st century,1
-16,theatre,1
-17,love inspired,1
-18,ya horror,1
-19,baseball romance,1
-20,rus,1
-21,ya romantasy,1
-22,tarot,1
-23,love story,1
-24,mystery romance,1
-25,espionage,1
-26,summer romance,1
+4,shojo,2
+5,epic fantasy,2
+6,booktok,2
+7,historical mystery,2
+8,manhwa,2
+9,webcomic,2
+10,italy,2
+11,dual timeline,2
+12,graphic novels comics,2
+13,21st century,1
+14,theatre,1
+15,love inspired,1
+16,dystopian romance,1
+17,ya horror,1
+18,baseball romance,1
+19,rus,1
+20,ya romantasy,1
+21,tarot,1
+22,love story,1
+23,mystery romance,1
+24,espionage,1
+25,summer romance,1
+26,spanish literature,1
 27,spain,1
 28,police romance,1
 29,realistic young adult,1
@@ -40,4 +40,5 @@ rank,raw_shelf,book_count
 39,horses,1
 40,unfinished,1
 41,folklore,1
-42,cinderella,1
+42,indian literature,1
+43,cinderella,1
