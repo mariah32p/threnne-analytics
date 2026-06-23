@@ -1,14 +1,14 @@
 rank,raw_shelf,book_count
-1,dark fantasy,20
-2,academia,9
+1,dark fantasy,21
+2,academia,7
 3,manga,5
 4,italy,5
 5,historical mystery,3
-6,graphic novels comics,3
-7,pride,3
-8,shojo,2
-9,epic fantasy,2
-10,booktok,2
+6,booktok,3
+7,graphic novels comics,3
+8,pride,3
+9,shojo,2
+10,epic fantasy,2
 11,spanish literature,2
 12,manhwa,2
 13,webcomic,2
@@ -49,7 +49,5 @@ rank,raw_shelf,book_count
 48,greece,1
 49,judaism,1
 50,arthurian,1
-51,horses,1
-52,unfinished,1
-53,folklore,1
-54,yearning,1
+51,folklore,1
+52,yearning,1
