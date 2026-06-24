@@ -1,10 +1,10 @@
 rank,raw_shelf,book_count
 1,dark fantasy,21
-2,academia,7
+2,academia,8
 3,manga,5
-4,italy,5
-5,historical mystery,3
-6,booktok,3
+4,historical mystery,3
+5,booktok,3
+6,italy,3
 7,graphic novels comics,3
 8,pride,3
 9,shojo,2
@@ -12,42 +12,40 @@ rank,raw_shelf,book_count
 11,spanish literature,2
 12,manhwa,2
 13,webcomic,2
-14,secret society,2
-15,21st century,1
-16,theatre,1
-17,love inspired,1
-18,sisters,1
-19,ya horror,1
-20,baseball romance,1
-21,rus,1
-22,ya romantasy,1
-23,tarot,1
-24,love story,1
-25,mystery romance,1
-26,espionage,1
-27,summer romance,1
-28,spain,1
-29,asian american,1
-30,green,1
-31,christian historical fiction,1
-32,young adult science fiction,1
-33,cinderella,1
-34,nursing,1
-35,indian literature,1
-36,dystopian romance,1
-37,police romance,1
-38,realistic young adult,1
-39,cozy romance,1
-40,bangladesh,1
-41,fade to black,1
-42,dual timeline,1
-43,kidnapping,1
-44,novel in verse,1
-45,activism,1
-46,social justice,1
-47,social issues,1
-48,greece,1
-49,judaism,1
-50,arthurian,1
-51,folklore,1
-52,yearning,1
+14,21st century,1
+15,theatre,1
+16,love inspired,1
+17,sisters,1
+18,ya horror,1
+19,baseball romance,1
+20,rus,1
+21,ya romantasy,1
+22,tarot,1
+23,love story,1
+24,mystery romance,1
+25,espionage,1
+26,summer romance,1
+27,spain,1
+28,asian american,1
+29,green,1
+30,christian historical fiction,1
+31,young adult science fiction,1
+32,cinderella,1
+33,nursing,1
+34,indian literature,1
+35,police romance,1
+36,realistic young adult,1
+37,cozy romance,1
+38,secret society,1
+39,bangladesh,1
+40,fade to black,1
+41,dual timeline,1
+42,kidnapping,1
+43,novel in verse,1
+44,activism,1
+45,judaism,1
+46,arthurian,1
+47,horses,1
+48,folklore,1
+49,yearning,1
+50,dystopian romance,1
