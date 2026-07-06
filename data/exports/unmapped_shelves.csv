@@ -1,25 +1,25 @@
 rank,raw_shelf,book_count
-1,dark fantasy,23
+1,dark fantasy,22
 2,academia,11
-3,italy,6
+3,italy,7
 4,historical mystery,5
 5,manga,5
 6,booktok,3
 7,spanish literature,3
-8,secret society,3
-9,pride,3
-10,shojo,2
-11,epic fantasy,2
-12,baseball romance,2
-13,ya romantasy,2
-14,manhwa,2
-15,graphic novels comics,2
-16,dual timeline,2
-17,21st century,1
-18,theatre,1
-19,love inspired,1
-20,sisters,1
-21,ya horror,1
+8,pride,3
+9,shojo,2
+10,epic fantasy,2
+11,ya romantasy,2
+12,manhwa,2
+13,graphic novels comics,2
+14,secret society,2
+15,dual timeline,2
+16,21st century,1
+17,theatre,1
+18,love inspired,1
+19,sisters,1
+20,ya horror,1
+21,baseball romance,1
 22,rus,1
 23,nature,1
 24,tarot,1
@@ -44,15 +44,13 @@ rank,raw_shelf,book_count
 43,unfinished,1
 44,folklore,1
 45,yearning,1
-46,thriller suspense,1
-47,christian historical fiction,1
-48,indigenous,1
-49,christian fantasy,1
-50,judaism,1
-51,arthurian,1
-52,police romance,1
-53,realistic young adult,1
-54,cozy romance,1
-55,bangladesh,1
-56,fade to black,1
-57,kidnapping,1
+46,police romance,1
+47,realistic young adult,1
+48,cozy romance,1
+49,bangladesh,1
+50,fade to black,1
+51,kidnapping,1
+52,christian historical fiction,1
+53,indigenous,1
+54,christian fantasy,1
+55,arthurian,1
