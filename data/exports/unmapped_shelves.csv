@@ -1,14 +1,14 @@
 rank,raw_shelf,book_count
-1,dark fantasy,22
+1,dark fantasy,21
 2,academia,11
-3,italy,7
-4,manga,6
+3,manga,6
+4,italy,6
 5,historical mystery,5
-6,booktok,3
-7,manhwa,3
-8,dual timeline,3
-9,secret society,3
-10,stalker,3
+6,stalker,4
+7,booktok,3
+8,manhwa,3
+9,dual timeline,3
+10,secret society,3
 11,shojo,2
 12,epic fantasy,2
 13,baseball romance,2
@@ -16,45 +16,45 @@ rank,raw_shelf,book_count
 15,spanish literature,2
 16,webcomic,2
 17,graphic novels comics,2
-18,pride,2
-19,21st century,1
-20,theatre,1
-21,love inspired,1
-22,sisters,1
-23,ya horror,1
-24,rus,1
-25,nature,1
-26,tarot,1
-27,love story,1
-28,mystery romance,1
-29,espionage,1
-30,summer romance,1
-31,spain,1
-32,asian american,1
-33,green,1
-34,young adult science fiction,1
-35,cinderella,1
-36,nursing,1
-37,indian literature,1
-38,horror thriller,1
-39,novel in verse,1
-40,activism,1
-41,social justice,1
-42,greece,1
-43,horses,1
-44,unfinished,1
-45,folklore,1
-46,yearning,1
-47,police romance,1
-48,realistic young adult,1
-49,cozy romance,1
-50,bangladesh,1
-51,fade to black,1
-52,kidnapping,1
-53,christian historical fiction,1
-54,indigenous,1
-55,christian fantasy,1
-56,judaism,1
-57,arthurian,1
-58,slice of life,1
-59,dystopian romance,1
+18,kidnapping,2
+19,pride,2
+20,21st century,1
+21,theatre,1
+22,love inspired,1
+23,sisters,1
+24,ya horror,1
+25,rus,1
+26,nature,1
+27,tarot,1
+28,love story,1
+29,mystery romance,1
+30,espionage,1
+31,summer romance,1
+32,spain,1
+33,asian american,1
+34,green,1
+35,young adult science fiction,1
+36,cinderella,1
+37,nursing,1
+38,indian literature,1
+39,horror thriller,1
+40,novel in verse,1
+41,activism,1
+42,social justice,1
+43,greece,1
+44,horses,1
+45,unfinished,1
+46,folklore,1
+47,yearning,1
+48,police romance,1
+49,realistic young adult,1
+50,cozy romance,1
+51,bangladesh,1
+52,fade to black,1
+53,slice of life,1
+54,dystopian romance,1
+55,christian historical fiction,1
+56,indigenous,1
+57,christian fantasy,1
+58,judaism,1
+59,arthurian,1
