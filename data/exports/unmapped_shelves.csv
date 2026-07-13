@@ -1,5 +1,5 @@
 rank,raw_shelf,book_count
-1,dark fantasy,21
+1,dark fantasy,22
 2,academia,11
 3,manga,6
 4,italy,6
@@ -8,31 +8,31 @@ rank,raw_shelf,book_count
 7,booktok,3
 8,manhwa,3
 9,dual timeline,3
-10,secret society,3
-11,shojo,2
-12,epic fantasy,2
-13,baseball romance,2
-14,spanish literature,2
-15,webcomic,2
-16,graphic novels comics,2
-17,kidnapping,2
-18,pride,2
+10,shojo,2
+11,epic fantasy,2
+12,ya romantasy,2
+13,spanish literature,2
+14,webcomic,2
+15,graphic novels comics,2
+16,kidnapping,2
+17,pride,2
+18,secret society,2
 19,21st century,1
 20,theatre,1
 21,love inspired,1
 22,sisters,1
 23,ya horror,1
 24,rus,1
-25,ya romantasy,1
-26,nature,1
-27,tarot,1
-28,love story,1
+25,nature,1
+26,tarot,1
+27,love story,1
+28,technology,1
 29,mystery romance,1
 30,espionage,1
 31,summer romance,1
 32,spain,1
 33,asian american,1
-34,green,1
+34,american,1
 35,young adult science fiction,1
 36,cinderella,1
 37,nursing,1
@@ -54,7 +54,8 @@ rank,raw_shelf,book_count
 53,slice of life,1
 54,dystopian romance,1
 55,christian historical fiction,1
-56,indigenous,1
-57,christian fantasy,1
-58,judaism,1
-59,arthurian,1
+56,baseball romance,1
+57,indigenous,1
+58,christian fantasy,1
+59,judaism,1
+60,arthurian,1
