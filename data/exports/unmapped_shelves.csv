@@ -1,41 +1,51 @@
 rank,raw_shelf,book_count
-1,dark fantasy,10
-2,academia,6
-3,italy,3
-4,booktok,2
-5,spanish literature,2
-6,pride,2
-7,dual timeline,2
-8,manga,2
-9,manhwa,2
-10,nature,1
-11,tarot,1
-12,love story,1
-13,technology,1
-14,spain,1
-15,asian american,1
-16,speculative fiction,1
-17,novel in verse,1
-18,activism,1
-19,social justice,1
-20,greece,1
-21,graphic novels comics,1
-22,folklore,1
-23,yearning,1
-24,webcomic,1
-25,slice of life,1
-26,police romance,1
-27,realistic young adult,1
-28,cozy romance,1
-29,fade to black,1
-30,stalker,1
-31,kidnapping,1
-32,arthurian,1
-33,christian historical fiction,1
-34,baseball romance,1
-35,indigenous,1
-36,historical mystery,1
-37,christian fantasy,1
-38,judaism,1
-39,dystopian romance,1
-40,epic fantasy,1
+1,dark fantasy,14
+2,academia,8
+3,italy,6
+4,graphic novels comics,5
+5,manhwa,3
+6,manga,3
+7,dual timeline,3
+8,kidnapping,3
+9,historical mystery,3
+10,stalker,3
+11,pride,3
+12,ya romantasy,2
+13,booktok,2
+14,spanish literature,2
+15,ya horror,1
+16,rus,1
+17,nature,1
+18,tarot,1
+19,webcomic,1
+20,spain,1
+21,asian american,1
+22,speculative fiction,1
+23,young adult science fiction,1
+24,sisters,1
+25,self esteem,1
+26,childhood friends to lovers,1
+27,novel in verse,1
+28,activism,1
+29,social justice,1
+30,greece,1
+31,horses,1
+32,folklore,1
+33,yearning,1
+34,secret society,1
+35,bangladesh,1
+36,fade to black,1
+37,arthurian,1
+38,research,1
+39,thriller suspense,1
+40,christian historical fiction,1
+41,baseball romance,1
+42,indigenous,1
+43,christian fantasy,1
+44,dystopian romance,1
+45,epic fantasy,1
+46,family saga,1
+47,apocalyptic,1
+48,amish,1
+49,graphic novels manga,1
+50,dark romantasy,1
