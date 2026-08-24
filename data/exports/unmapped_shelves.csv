@@ -1,36 +1,43 @@
 rank,raw_shelf,book_count
-1,manga,5
-2,graphic novels comics,5
-3,historical mystery,3
-4,academia,3
-5,dark fantasy,3
-6,kidnapping,3
-7,autumn,3
-8,booktok,2
-9,shojo,2
-10,epic fantasy,2
-11,stalker,2
-12,manhwa,2
-13,italy,2
-14,21st century,1
-15,christian historical fiction,1
-16,ya horror,1
+1,dark fantasy,10
+2,academia,6
+3,italy,4
+4,historical mystery,3
+5,manga,3
+6,stalker,3
+7,booktok,2
+8,secret society,2
+9,yearning,2
+10,dual timeline,2
+11,manhwa,2
+12,dystopian romance,2
+13,christian historical fiction,1
+14,shojo,1
+15,ya horror,1
+16,rus,1
 17,love story,1
 18,technology,1
-19,school,1
-20,spanish literature,1
-21,summer romance,1
-22,webcomic,1
-23,asian american,1
-24,speculative fiction,1
-25,dual timeline,1
-26,young adult science fiction,1
-27,sisters,1
-28,social justice,1
-29,greece,1
-30,apocalyptic,1
-31,gothic horror,1
-32,ya romantasy,1
-33,fairies,1
-34,police romance,1
-35,cozy romance,1
+19,asian american,1
+20,speculative fiction,1
+21,dark romantasy,1
+22,cinderella,1
+23,nursing,1
+24,indian literature,1
+25,childhood friends to lovers,1
+26,novel in verse,1
+27,graphic novels comics,1
+28,horses,1
+29,folklore,1
+30,webcomic,1
+31,slice of life,1
+32,pride,1
+33,baseball romance,1
+34,indigenous,1
+35,christian fantasy,1
+36,epic fantasy,1
+37,police romance,1
+38,cozy romance,1
+39,bangladesh,1
+40,kidnapping,1
+41,autumn,1
+42,fairies,1
