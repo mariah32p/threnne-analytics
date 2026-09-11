@@ -1,44 +1,48 @@
 rank,raw_shelf,book_count
-1,autumn,17
-2,adult romance,13
-3,academia,8
-4,italy,7
-5,dark fantasy,5
+1,adult romance,16
+2,autumn,14
+3,dark fantasy,12
+4,academia,11
+5,manhwa,5
 6,manga,5
-7,manhwa,4
-8,epic fantasy,3
-9,stalker,2
-10,novel in verse,2
-11,arthurian,2
-12,historical mystery,2
-13,christian historical fiction,2
-14,graphic novels comics,2
-15,ya romantasy,2
-16,fairies,2
-17,indian literature,2
-18,secret society,2
-19,webcomic,2
-20,spain,2
-21,yearning,2
-22,childhood friends to lovers,1
-23,dual timeline,1
-24,social justice,1
-25,greece,1
-26,baseball romance,1
-27,indigenous,1
-28,christian fantasy,1
-29,judaism,1
-30,sexuality,1
-31,bande dessinée,1
-32,josei,1
-33,apocalyptic,1
-34,police romance,1
-35,cozy romance,1
-36,bangladesh,1
-37,spanish literature,1
-38,horror thriller,1
-39,morocco,1
-40,horses,1
-41,world war i,1
-42,folklore,1
-43,kidnapping,1
+7,italy,4
+8,graphic novels comics,3
+9,webcomic,3
+10,dystopian romance,2
+11,booktok,2
+12,dual timeline,2
+13,gothic horror,2
+14,stalker,2
+15,horses,2
+16,folklore,2
+17,yearning,2
+18,kidnapping,2
+19,spain,2
+20,epic fantasy,2
+21,asian american,1
+22,green,1
+23,speculative fiction,1
+24,young adult science fiction,1
+25,sisters,1
+26,cinderella,1
+27,nursing,1
+28,secret society,1
+29,indian literature,1
+30,childhood friends to lovers,1
+31,slice of life,1
+32,christian historical fiction,1
+33,indigenous,1
+34,historical mystery,1
+35,christian fantasy,1
+36,judaism,1
+37,sexuality,1
+38,bande dessinée,1
+39,josei,1
+40,apocalyptic,1
+41,spanish literature,1
+42,horror thriller,1
+43,morocco,1
+44,world war i,1
+45,novel in verse,1
+46,fairies,1
+47,ya romantasy,1
