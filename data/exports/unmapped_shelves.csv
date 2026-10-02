@@ -1,46 +1,47 @@
 rank,raw_shelf,book_count
-1,adult romance,27
-2,autumn,23
-3,dark fantasy,8
-4,academia,6
-5,graphic novels comics,3
-6,young adult science fiction,2
-7,booktok,2
-8,manga,2
-9,sisters,2
-10,italy,2
-11,dual timeline,2
-12,kidnapping,2
-13,sexuality,2
-14,christian historical fiction,2
-15,21st century,1
-16,shojo,1
-17,love inspired,1
-18,dystopian romance,1
-19,ya horror,1
-20,rus,1
-21,hispanic,1
-22,dark romantasy,1
-23,nature,1
-24,green,1
-25,speculative fiction,1
-26,historical mystery,1
-27,relationships,1
-28,arthurian,1
-29,judaism,1
-30,manhwa,1
-31,bande dessinée,1
-32,josei,1
-33,apocalyptic,1
-34,secret society,1
-35,epic fantasy,1
-36,indian literature,1
-37,stalker,1
-38,horror thriller,1
-39,spain,1
-40,morocco,1
-41,horses,1
-42,world war i,1
-43,novel in verse,1
-44,fake marriage,1
-45,fairies,1
+1,adult romance,19
+2,dark fantasy,15
+3,autumn,12
+4,academia,8
+5,manga,7
+6,manhwa,5
+7,italy,5
+8,webcomic,4
+9,booktok,3
+10,dual timeline,3
+11,graphic novels comics,3
+12,stalker,3
+13,yearning,3
+14,young adult science fiction,2
+15,sisters,2
+16,summer romance,2
+17,kidnapping,2
+18,indian literature,2
+19,dystopian romance,2
+20,epic fantasy,2
+21,21st century,1
+22,shojo,1
+23,love inspired,1
+24,hispanic,1
+25,dark romantasy,1
+26,nature,1
+27,tarot,1
+28,asian american,1
+29,green,1
+30,speculative fiction,1
+31,historical mystery,1
+32,childhood friends to lovers,1
+33,novel in verse,1
+34,social justice,1
+35,greece,1
+36,horses,1
+37,folklore,1
+38,slice of life,1
+39,judaism,1
+40,sexuality,1
+41,bande dessinée,1
+42,josei,1
+43,apocalyptic,1
+44,arthurian,1
+45,fake marriage,1
+46,fairies,1
