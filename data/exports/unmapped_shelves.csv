@@ -1,55 +1,37 @@
 rank,raw_shelf,book_count
-1,autumn,35
-2,adult romance,22
-3,dark fantasy,12
-4,academia,10
-5,manga,4
+1,autumn,26
+2,adult romance,13
+3,dark fantasy,11
+4,academia,6
+5,manga,3
 6,historical mystery,3
-7,graphic novels comics,3
-8,kidnapping,3
-9,epic fantasy,3
-10,yearning,3
-11,young adult science fiction,2
-12,booktok,2
-13,shojo,2
-14,sisters,2
-15,christian suspense,2
-16,stalker,2
-17,manhwa,2
-18,speculative fiction,2
-19,italy,2
-20,dual timeline,2
-21,spain,2
-22,police romance,2
-23,christian historical fiction,2
-24,dystopian romance,2
-25,21st century,1
-26,theatre,1
-27,love inspired,1
-28,dark romantasy,1
-29,nature,1
-30,tarot,1
-31,love story,1
-32,technology,1
-33,comics manga,1
-34,summer romance,1
-35,webcomic,1
-36,asian american,1
-37,green,1
-38,spanish literature,1
-39,horror thriller,1
-40,horses,1
-41,morocco,1
-42,world war i,1
-43,novel in verse,1
-44,gothic horror,1
-45,fake marriage,1
-46,cozy romance,1
-47,indian literature,1
-48,family saga,1
-49,sexuality,1
-50,secret society,1
-51,chosen one,1
-52,middle east,1
-53,slow burn romance,1
-54,fairies,1
+7,yearning,3
+8,secret society,3
+9,booktok,2
+10,kidnapping,2
+11,graphic novels comics,2
+12,manhwa,2
+13,italy,2
+14,epic fantasy,2
+15,dystopian romance,2
+16,21st century,1
+17,theatre,1
+18,young adult science fiction,1
+19,shojo,1
+20,ya horror,1
+21,rus,1
+22,summer romance,1
+23,sisters,1
+24,webcomic,1
+25,slice of life,1
+26,arthurian,1
+27,police romance,1
+28,gothic horror,1
+29,bangladesh,1
+30,speculative fiction,1
+31,family saga,1
+32,christian historical fiction,1
+33,southern gothic,1
+34,chosen one,1
+35,slow burn romance,1
+36,fairies,1
