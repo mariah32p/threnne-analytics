@@ -1,49 +1,63 @@
 rank,raw_shelf,book_count
-1,autumn,32
-2,adult romance,25
+1,autumn,29
+2,adult romance,28
 3,dark fantasy,16
 4,academia,12
-5,manga,7
-6,manhwa,6
-7,webcomic,4
-8,italy,4
-9,graphic novels comics,3
-10,kidnapping,3
-11,secret society,3
-12,historical mystery,2
-13,dual timeline,2
-14,yearning,2
-15,arthurian,2
-16,sexuality,2
-17,stalker,2
-18,fairies,2
-19,indian literature,2
-20,fake marriage,2
-21,ya horror,1
-22,rus,1
-23,hispanic,1
-24,comics manga,1
-25,shojo,1
-26,summer romance,1
-27,asian american,1
-28,sisters,1
-29,horses,1
-30,booktok,1
-31,folklore,1
-32,dystopian romance,1
-33,slice of life,1
-34,bande dessinée,1
-35,josei,1
-36,apocalyptic,1
-37,ya romantasy,1
-38,gothic horror,1
-39,police romance,1
-40,cozy romance,1
-41,bangladesh,1
-42,epic fantasy,1
-43,speculative fiction,1
-44,family saga,1
-45,christian historical fiction,1
-46,southern gothic,1
-47,chosen one,1
-48,middle east,1
+5,manhwa,7
+6,manga,7
+7,italy,7
+8,graphic novels comics,6
+9,webcomic,4
+10,historical mystery,4
+11,stalker,4
+12,yearning,4
+13,epic fantasy,4
+14,dystopian romance,3
+15,booktok,3
+16,kidnapping,3
+17,summer romance,2
+18,speculative fiction,2
+19,dual timeline,2
+20,novel in verse,2
+21,indigenous,2
+22,horses,2
+23,arthurian,2
+24,christian historical fiction,2
+25,indian literature,2
+26,secret society,2
+27,ya horror,1
+28,rus,1
+29,hispanic,1
+30,dark romantasy,1
+31,nature,1
+32,tarot,1
+33,spanish literature,1
+34,asian american,1
+35,green,1
+36,young adult science fiction,1
+37,sisters,1
+38,childhood friends to lovers,1
+39,social justice,1
+40,greece,1
+41,relationships,1
+42,folklore,1
+43,slice of life,1
+44,baseball romance,1
+45,christian fantasy,1
+46,judaism,1
+47,bande dessinée,1
+48,josei,1
+49,apocalyptic,1
+50,police romance,1
+51,horror thriller,1
+52,spain,1
+53,morocco,1
+54,world war i,1
+55,christian suspense,1
+56,graphic novels manga,1
+57,gothic horror,1
+58,bangladesh,1
+59,family saga,1
+60,chosen one,1
+61,middle east,1
+62,fairies,1
