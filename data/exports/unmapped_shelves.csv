@@ -1,63 +1,59 @@
 rank,raw_shelf,book_count
-1,autumn,29
-2,adult romance,28
-3,dark fantasy,16
-4,academia,12
-5,manhwa,7
-6,manga,7
-7,italy,7
-8,graphic novels comics,6
-9,webcomic,4
-10,historical mystery,4
-11,stalker,4
-12,yearning,4
-13,epic fantasy,4
-14,dystopian romance,3
-15,booktok,3
-16,kidnapping,3
-17,summer romance,2
-18,speculative fiction,2
-19,dual timeline,2
+1,adult romance,24
+2,dark fantasy,18
+3,autumn,16
+4,academia,11
+5,manga,6
+6,stalker,4
+7,italy,4
+8,booktok,3
+9,manhwa,3
+10,dual timeline,3
+11,graphic novels comics,3
+12,young adult science fiction,2
+13,shojo,2
+14,sisters,2
+15,spanish literature,2
+16,christian suspense,2
+17,webcomic,2
+18,kidnapping,2
+19,indian literature,2
 20,novel in verse,2
-21,indigenous,2
-22,horses,2
-23,arthurian,2
-24,christian historical fiction,2
-25,indian literature,2
-26,secret society,2
-27,ya horror,1
-28,rus,1
+21,horses,2
+22,yearning,2
+23,dystopian romance,2
+24,spain,2
+25,epic fantasy,2
+26,21st century,1
+27,theatre,1
+28,love inspired,1
 29,hispanic,1
 30,dark romantasy,1
 31,nature,1
 32,tarot,1
-33,spanish literature,1
-34,asian american,1
-35,green,1
-36,young adult science fiction,1
-37,sisters,1
-38,childhood friends to lovers,1
-39,social justice,1
-40,greece,1
-41,relationships,1
-42,folklore,1
-43,slice of life,1
-44,baseball romance,1
-45,christian fantasy,1
-46,judaism,1
-47,bande dessinée,1
-48,josei,1
-49,apocalyptic,1
-50,police romance,1
-51,horror thriller,1
-52,spain,1
-53,morocco,1
-54,world war i,1
-55,christian suspense,1
-56,graphic novels manga,1
-57,gothic horror,1
-58,bangladesh,1
-59,family saga,1
-60,chosen one,1
-61,middle east,1
-62,fairies,1
+33,love story,1
+34,technology,1
+35,historical mystery,1
+36,comics manga,1
+37,summer romance,1
+38,asian american,1
+39,green,1
+40,speculative fiction,1
+41,cinderella,1
+42,secret society,1
+43,childhood friends to lovers,1
+44,indigenous,1
+45,social justice,1
+46,greece,1
+47,relationships,1
+48,folklore,1
+49,slice of life,1
+50,arthurian,1
+51,apocalyptic,1
+52,ya romantasy,1
+53,fairies,1
+54,police romance,1
+55,horror thriller,1
+56,morocco,1
+57,world war i,1
+58,christian historical fiction,1
