@@ -1,59 +1,65 @@
 rank,raw_shelf,book_count
-1,adult romance,24
-2,dark fantasy,18
-3,autumn,16
-4,academia,11
-5,manga,6
-6,stalker,4
-7,italy,4
-8,booktok,3
-9,manhwa,3
-10,dual timeline,3
-11,graphic novels comics,3
-12,young adult science fiction,2
-13,shojo,2
-14,sisters,2
-15,spanish literature,2
-16,christian suspense,2
-17,webcomic,2
-18,kidnapping,2
-19,indian literature,2
-20,novel in verse,2
-21,horses,2
-22,yearning,2
-23,dystopian romance,2
-24,spain,2
-25,epic fantasy,2
-26,21st century,1
-27,theatre,1
-28,love inspired,1
-29,hispanic,1
-30,dark romantasy,1
-31,nature,1
-32,tarot,1
-33,love story,1
-34,technology,1
-35,historical mystery,1
-36,comics manga,1
-37,summer romance,1
-38,asian american,1
+1,autumn,39
+2,adult romance,27
+3,dark fantasy,14
+4,academia,9
+5,manga,7
+6,italy,7
+7,manhwa,6
+8,graphic novels comics,5
+9,historical mystery,4
+10,stalker,4
+11,booktok,3
+12,dual timeline,3
+13,kidnapping,3
+14,indian literature,3
+15,webcomic,3
+16,christian historical fiction,3
+17,secret society,3
+18,young adult science fiction,2
+19,sisters,2
+20,dystopian romance,2
+21,speculative fiction,2
+22,novel in verse,2
+23,indigenous,2
+24,horses,2
+25,yearning,2
+26,sexuality,2
+27,fairies,2
+28,spain,2
+29,epic fantasy,2
+30,police romance,2
+31,21st century,1
+32,theatre,1
+33,shojo,1
+34,love inspired,1
+35,ya horror,1
+36,rus,1
+37,hispanic,1
+38,dark romantasy,1
 39,green,1
-40,speculative fiction,1
-41,cinderella,1
-42,secret society,1
-43,childhood friends to lovers,1
-44,indigenous,1
-45,social justice,1
-46,greece,1
-47,relationships,1
-48,folklore,1
-49,slice of life,1
-50,arthurian,1
-51,apocalyptic,1
-52,ya romantasy,1
-53,fairies,1
-54,police romance,1
-55,horror thriller,1
-56,morocco,1
-57,world war i,1
-58,christian historical fiction,1
+40,childhood friends to lovers,1
+41,social justice,1
+42,folklore,1
+43,slice of life,1
+44,baseball romance,1
+45,christian fantasy,1
+46,summer romance,1
+47,judaism,1
+48,bande dessinée,1
+49,josei,1
+50,apocalyptic,1
+51,ya romantasy,1
+52,arthurian,1
+53,spanish literature,1
+54,horror thriller,1
+55,morocco,1
+56,world war i,1
+57,christian suspense,1
+58,graphic novels manga,1
+59,gothic horror,1
+60,fake marriage,1
+61,family saga,1
+62,southern gothic,1
+63,cozy romance,1
+64,bangladesh,1
