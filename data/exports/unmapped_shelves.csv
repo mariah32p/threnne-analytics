@@ -1,57 +1,56 @@
 rank,raw_shelf,book_count
-1,autumn,29
-2,adult romance,21
-3,dark fantasy,17
-4,academia,12
-5,manga,7
-6,stalker,5
-7,manhwa,5
-8,booktok,4
-9,italy,4
-10,yearning,4
-11,dystopian romance,3
-12,historical mystery,3
-13,epic fantasy,3
-14,shojo,2
+1,autumn,28
+2,adult romance,19
+3,dark fantasy,16
+4,academia,8
+5,manga,4
+6,stalker,4
+7,historical mystery,4
+8,secret society,4
+9,booktok,3
+10,italy,3
+11,christian historical fiction,3
+12,yearning,3
+13,shojo,2
+14,dystopian romance,2
 15,spanish literature,2
 16,christian suspense,2
 17,summer romance,2
-18,webcomic,2
-19,secret society,2
-20,indian literature,2
-21,dual timeline,2
-22,novel in verse,2
-23,indigenous,2
-24,horses,2
-25,christian historical fiction,2
-26,graphic novels comics,2
-27,spain,2
-28,kidnapping,2
-29,21st century,1
-30,theatre,1
-31,love inspired,1
-32,sisters,1
-33,love story,1
-34,technology,1
-35,comics manga,1
-36,childhood friends to lovers,1
-37,folklore,1
-38,slice of life,1
-39,baseball romance,1
-40,christian fantasy,1
-41,judaism,1
-42,sexuality,1
-43,bande dessinée,1
-44,josei,1
-45,police romance,1
-46,horror thriller,1
-47,morocco,1
-48,world war i,1
-49,graphic novels manga,1
-50,gothic horror,1
-51,christmas romance,1
-52,bangladesh,1
-53,speculative fiction,1
-54,chosen one,1
-55,middle east,1
-56,fairies,1
+18,manhwa,2
+19,sexuality,2
+20,spain,2
+21,epic fantasy,2
+22,kidnapping,2
+23,21st century,1
+24,theatre,1
+25,love inspired,1
+26,sisters,1
+27,nature,1
+28,tarot,1
+29,love story,1
+30,technology,1
+31,comics manga,1
+32,webcomic,1
+33,indian literature,1
+34,childhood friends to lovers,1
+35,dual timeline,1
+36,graphic novels comics,1
+37,baseball romance,1
+38,indigenous,1
+39,christian fantasy,1
+40,judaism,1
+41,arthurian,1
+42,police romance,1
+43,horror thriller,1
+44,horses,1
+45,morocco,1
+46,world war i,1
+47,novel in verse,1
+48,gothic horror,1
+49,bangladesh,1
+50,speculative fiction,1
+51,family saga,1
+52,southern gothic,1
+53,chosen one,1
+54,middle east,1
+55,fairies,1
