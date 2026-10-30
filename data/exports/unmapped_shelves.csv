@@ -1,56 +1,62 @@
 rank,raw_shelf,book_count
-1,autumn,28
-2,adult romance,19
-3,dark fantasy,16
-4,academia,8
-5,manga,4
-6,stalker,4
-7,historical mystery,4
-8,secret society,4
-9,booktok,3
-10,italy,3
-11,christian historical fiction,3
+1,autumn,33
+2,adult romance,28
+3,dark fantasy,22
+4,academia,9
+5,manga,7
+6,italy,5
+7,graphic novels comics,5
+8,manhwa,5
+9,historical mystery,4
+10,booktok,3
+11,dystopian romance,3
 12,yearning,3
-13,shojo,2
-14,dystopian romance,2
-15,spanish literature,2
-16,christian suspense,2
-17,summer romance,2
-18,manhwa,2
-19,sexuality,2
-20,spain,2
-21,epic fantasy,2
-22,kidnapping,2
-23,21st century,1
+13,webcomic,3
+14,christian historical fiction,3
+15,sisters,2
+16,speculative fiction,2
+17,dual timeline,2
+18,kidnapping,2
+19,horses,2
+20,arthurian,2
+21,sexuality,2
+22,stalker,2
+23,spain,2
 24,theatre,1
-25,love inspired,1
-26,sisters,1
-27,nature,1
-28,tarot,1
-29,love story,1
-30,technology,1
-31,comics manga,1
-32,webcomic,1
-33,indian literature,1
-34,childhood friends to lovers,1
-35,dual timeline,1
-36,graphic novels comics,1
-37,baseball romance,1
-38,indigenous,1
-39,christian fantasy,1
-40,judaism,1
-41,arthurian,1
-42,police romance,1
-43,horror thriller,1
-44,horses,1
-45,morocco,1
-46,world war i,1
-47,novel in verse,1
-48,gothic horror,1
-49,bangladesh,1
-50,speculative fiction,1
-51,family saga,1
-52,southern gothic,1
-53,chosen one,1
-54,middle east,1
-55,fairies,1
+25,shojo,1
+26,love inspired,1
+27,ya horror,1
+28,rus,1
+29,hispanic,1
+30,dark romantasy,1
+31,green,1
+32,touch her and die,1
+33,young adult science fiction,1
+34,gothic horror,1
+35,cinderella,1
+36,greece,1
+37,relationships,1
+38,folklore,1
+39,slice of life,1
+40,baseball romance,1
+41,indigenous,1
+42,christian fantasy,1
+43,summer romance,1
+44,judaism,1
+45,bande dessinée,1
+46,josei,1
+47,apocalyptic,1
+48,ya romantasy,1
+49,indian literature,1
+50,spanish literature,1
+51,horror thriller,1
+52,morocco,1
+53,world war i,1
+54,novel in verse,1
+55,epic fantasy,1
+56,family saga,1
+57,southern gothic,1
+58,secret society,1
+59,chosen one,1
+60,middle east,1
+61,fairies,1
