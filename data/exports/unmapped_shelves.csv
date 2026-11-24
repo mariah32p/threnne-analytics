@@ -1,65 +1,66 @@
 rank,raw_shelf,book_count
-1,autumn,34
-2,adult romance,18
-3,dark fantasy,16
-4,academia,11
+1,autumn,48
+2,adult romance,24
+3,academia,15
+4,dark fantasy,13
 5,manga,7
-6,italy,7
-7,graphic novels comics,4
-8,stalker,3
-9,manhwa,3
-10,indian literature,3
-11,dystopian romance,3
-12,young adult science fiction,2
-13,booktok,2
-14,shojo,2
-15,sisters,2
-16,spanish literature,2
+6,historical mystery,4
+7,italy,4
+8,manhwa,4
+9,epic fantasy,4
+10,stalker,3
+11,christian historical fiction,3
+12,graphic novels comics,3
+13,indian literature,3
+14,yearning,3
+15,secret society,3
+16,shojo,2
 17,christian suspense,2
-18,historical mystery,2
-19,webcomic,2
-20,speculative fiction,2
-21,dual timeline,2
-22,novel in verse,2
-23,indigenous,2
-24,yearning,2
-25,spain,2
-26,epic fantasy,2
-27,police romance,2
-28,21st century,1
-29,theatre,1
-30,love inspired,1
-31,hispanic,1
-32,dark romantasy,1
-33,nature,1
-34,tarot,1
-35,love story,1
-36,technology,1
-37,comics manga,1
-38,summer romance,1
-39,touch her and die,1
-40,kidnapping,1
-41,gothic horror,1
-42,cinderella,1
-43,childhood friends to lovers,1
-44,social justice,1
-45,greece,1
-46,relationships,1
-47,slice of life,1
-48,arthurian,1
-49,apocalyptic,1
-50,ya romantasy,1
-51,horror thriller,1
-52,horses,1
-53,morocco,1
-54,world war i,1
-55,christian historical fiction,1
-56,fake marriage,1
-57,fairies,1
-58,cozy romance,1
-59,young adult historical fiction,1
-60,christmas romance,1
-61,amish,1
-62,figure skating,1
-63,language,1
-64,family saga,1
+18,indigenous,2
+19,sexuality,2
+20,webcomic,2
+21,spain,2
+22,police romance,2
+23,kidnapping,2
+24,fairies,2
+25,family saga,2
+26,dystopian romance,2
+27,21st century,1
+28,theatre,1
+29,young adult science fiction,1
+30,booktok,1
+31,love inspired,1
+32,ya horror,1
+33,rus,1
+34,hispanic,1
+35,comics manga,1
+36,touch her and die,1
+37,baseball romance,1
+38,christian fantasy,1
+39,summer romance,1
+40,judaism,1
+41,bande dessinée,1
+42,josei,1
+43,arthurian,1
+44,spanish literature,1
+45,horror thriller,1
+46,horses,1
+47,morocco,1
+48,world war i,1
+49,novel in verse,1
+50,graphic novels manga,1
+51,gothic horror,1
+52,fake marriage,1
+53,southern gothic,1
+54,cozy romance,1
+55,bangladesh,1
+56,dual timeline,1
+57,young adult historical fiction,1
+58,christmas romance,1
+59,amish,1
+60,figure skating,1
+61,language,1
+62,speculative fiction,1
+63,dark romantasy,1
+64,psychological thriller,1
+65,fantasy of manners,1
