@@ -1,66 +1,51 @@
 rank,raw_shelf,book_count
-1,autumn,48
-2,adult romance,24
-3,academia,15
-4,dark fantasy,13
-5,manga,7
-6,historical mystery,4
+1,dark fantasy,16
+2,adult romance,15
+3,autumn,13
+4,academia,11
+5,stalker,5
+6,manga,4
 7,italy,4
-8,manhwa,4
-9,epic fantasy,4
-10,stalker,3
-11,christian historical fiction,3
-12,graphic novels comics,3
-13,indian literature,3
-14,yearning,3
-15,secret society,3
-16,shojo,2
-17,christian suspense,2
-18,indigenous,2
-19,sexuality,2
-20,webcomic,2
-21,spain,2
-22,police romance,2
-23,kidnapping,2
-24,fairies,2
-25,family saga,2
-26,dystopian romance,2
-27,21st century,1
-28,theatre,1
-29,young adult science fiction,1
-30,booktok,1
-31,love inspired,1
-32,ya horror,1
-33,rus,1
-34,hispanic,1
-35,comics manga,1
-36,touch her and die,1
+8,historical mystery,3
+9,yearning,3
+10,booktok,2
+11,dark romantasy,2
+12,gothic horror,2
+13,dual timeline,2
+14,indigenous,2
+15,manhwa,2
+16,kidnapping,2
+17,dystopian romance,2
+18,21st century,1
+19,theatre,1
+20,young adult science fiction,1
+21,nature,1
+22,tarot,1
+23,spanish literature,1
+24,love story,1
+25,technology,1
+26,christian suspense,1
+27,comics manga,1
+28,shojo,1
+29,cinderella,1
+30,indian literature,1
+31,childhood friends to lovers,1
+32,novel in verse,1
+33,social justice,1
+34,greece,1
+35,relationships,1
+36,christian historical fiction,1
 37,baseball romance,1
 38,christian fantasy,1
 39,summer romance,1
 40,judaism,1
-41,bande dessinée,1
-42,josei,1
-43,arthurian,1
-44,spanish literature,1
-45,horror thriller,1
-46,horses,1
-47,morocco,1
-48,world war i,1
-49,novel in verse,1
-50,graphic novels manga,1
-51,gothic horror,1
-52,fake marriage,1
-53,southern gothic,1
-54,cozy romance,1
-55,bangladesh,1
-56,dual timeline,1
-57,young adult historical fiction,1
-58,christmas romance,1
-59,amish,1
-60,figure skating,1
-61,language,1
-62,speculative fiction,1
-63,dark romantasy,1
-64,psychological thriller,1
-65,fantasy of manners,1
+41,sexuality,1
+42,bande dessinée,1
+43,josei,1
+44,spain,1
+45,epic fantasy,1
+46,graphic novels comics,1
+47,graphic novels manga,1
+48,family saga,1
+49,psychological thriller,1
+50,middle east,1
